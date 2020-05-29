@@ -1,0 +1,30 @@
+{
+  "name": "football-television-new",
+  "version": "1.0.0",
+  "description": "An example of creating a counter component using React Hooks.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "0.19.2",
+    "bootstrap": "4.5.0",
+    "moment": "2.26.0",
+    "moment-fr": "0.0.1",
+    "react": "16.8.0",
+    "react-dom": "16.8.0",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
